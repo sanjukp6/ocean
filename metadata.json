@@ -1,0 +1,6 @@
+{
+  "name": "AeroAcoustic-DebrisNet",
+  "description": "Automated marine debris and ghost net detection portal from Side Scan Sonar (SSS) data with Gemini Vision AI, acoustic shadow verification, and interactive GIS mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
